@@ -1,0 +1,8 @@
+# The ignore file list - SPS [C++]
+#
+# 1. Ignore any compiled versions of files, and the directories which them. Like bin/, tests/
+#
+
+bin/
+tests/
+test/
